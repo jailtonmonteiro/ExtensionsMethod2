@@ -1,0 +1,14 @@
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\bin\Debug\net8.0\ExtensionsMethod2.exe
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\bin\Debug\net8.0\ExtensionsMethod2.deps.json
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\bin\Debug\net8.0\ExtensionsMethod2.runtimeconfig.json
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\bin\Debug\net8.0\ExtensionsMethod2.dll
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\bin\Debug\net8.0\ExtensionsMethod2.pdb
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\obj\Debug\net8.0\ExtensionsMethod2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\obj\Debug\net8.0\ExtensionsMethod2.AssemblyInfoInputs.cache
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\obj\Debug\net8.0\ExtensionsMethod2.AssemblyInfo.cs
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\obj\Debug\net8.0\ExtensionsMethod2.csproj.CoreCompileInputs.cache
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\obj\Debug\net8.0\ExtensionsMethod2.dll
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\obj\Debug\net8.0\refint\ExtensionsMethod2.dll
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\obj\Debug\net8.0\ExtensionsMethod2.pdb
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\obj\Debug\net8.0\ExtensionsMethod2.genruntimeconfig.cache
+E:\Cursos\CSharp\ExtensionsMethod2\ExtensionsMethod2\obj\Debug\net8.0\ref\ExtensionsMethod2.dll
